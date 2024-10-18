@@ -26,31 +26,31 @@ public class Setting {
 
     public static class Key {
         public static String AES(){
-            return "n7bx6:@Fg_:2;5E89Phy7AyIcpxEQ:R@";
+            return "";
         }
         public static String IV(){
-            return ";;KjR1C3hgB1ovXa";
+            return "";
         }
-        public static String obfuscate(){return "BEs2D5vW";}
+        public static String obfuscate(){return "";}
     }
 
     public static class ServerConfig {
         public static String Host() {
-            return "maimai-gm.wahlap.com";
+            return "";
         }
 
         public static int Port() {
-            return 42081;
+            return ;
         }
 
         public static String Path() {
-            return "/Maimai2Servlet/";
+            return "";
         }
 
-        public static String Version() {return "1.40"; }
+        public static String Version() {return ""; }
     }
     public static String clientId() {
-        return "A63E01E1191";
+        return "";
     }
 
     public static class Others {
